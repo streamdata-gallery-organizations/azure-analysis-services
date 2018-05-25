@@ -10,8 +10,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Analysis Services
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/apis.md
 specificationVersion: "0.14"
 apis:
@@ -24,9 +24,9 @@ apis:
   tags: Servers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservername-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservername-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservername-get-openapi.md
 - name: Azure Analysis Services API Create Server
   x-api-slug: azure-analysis-services-api
   description: Provisions the specified Analysis Services server based on the configuration
@@ -37,7 +37,7 @@ apis:
   tags: Servers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservername-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservername-put-openapi.md
 - name: Azure Analysis Services API Delete Servers
   x-api-slug: azure-analysis-services-api
   description: Deletes the specified Analysis Services server.
@@ -47,9 +47,9 @@ apis:
   tags: Servers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservername-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservername-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservername-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservername-delete-openapi.md
 - name: Azure Analysis Services API Update Server
   x-api-slug: azure-analysis-services-api
   description: Updates the current state of the specified Analysis Services server.
@@ -59,7 +59,7 @@ apis:
   tags: Servers
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservername-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservername-patch-openapi.md
 - name: Azure Analysis Services API Suspend Server
   x-api-slug: azure-analysis-services-api
   description: Supends operation of the specified Analysis Services server instance.
@@ -69,9 +69,9 @@ apis:
   tags: Servers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservernamesuspend-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservernamesuspend-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservernamesuspend-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservernamesuspend-post-openapi.md
 - name: Azure Analysis Services API Resume Server
   x-api-slug: azure-analysis-services-api
   description: Resumes operation of the specified Analysis Services server instance.
@@ -81,9 +81,9 @@ apis:
   tags: Servers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservernameresume-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservernameresume-post-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesserversservernameresume-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesserversservernameresume-post-openapi.md
 - name: Azure Analysis Services API List Servers By Group
   x-api-slug: azure-analysis-services-api
   description: Gets all the Analysis Services servers for the given resource group.
@@ -93,9 +93,9 @@ apis:
   tags: Servers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesservers-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesservers-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftanalysisservicesservers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesservers-get-openapi.md
 - name: Azure Analysis Services API List Servers
   x-api-slug: azure-analysis-services-api
   description: Lists all the Analysis Services servers for the given subscription.
@@ -105,9 +105,9 @@ apis:
   tags: Servers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidprovidersmicrosoftanalysisservicesservers-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidprovidersmicrosoft-analysisservicesservers-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidprovidersmicrosoftanalysisservicesservers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/subscriptionssubscriptionidprovidersmicrosoft-analysisservicesservers-get-openapi.md
 - name: Azure Analysis Services API
   x-api-slug: azure-analysis-services-api
   description: Use Azure Resource Manager to create and deploy an Azure Analysis Services

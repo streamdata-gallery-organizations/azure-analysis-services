@@ -1,10 +1,10 @@
 ---
 swagger: "2.0"
 x-collection-name: Azure Analysis Services
-x-complete: 1
+x-complete: 0
 info:
-  title: AzureAnalysisServices
-  description: the-azure-analysis-services-web-api-provides-a-restful-set-of-web-services-that-enables-users-to-create-retrieve-update-and-delete-analysis-services-servers
+  title: Azure Analysis Services API Resume Server
+  description: Resumes operation of the specified Analysis Services server instance.
   version: "2016-05-16"
 host: management.azure.com
 basePath: /
@@ -127,32 +127,17 @@ paths:
           description: OK
       tags:
       - Servers
-  /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.AnalysisServices/servers:
-    get:
-      summary: List Servers By Group
-      description: Gets all the Analysis Services servers for the given resource group.
-      operationId: Servers_ListByResourceGroup
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-analysisservicesservers-get
-      parameters:
-      - in: query
-        name: No Name
-      responses:
-        200:
-          description: OK
-      tags:
-      - Servers
-  /subscriptions/{subscriptionId}/providers/Microsoft.AnalysisServices/servers:
-    get:
-      summary: List Servers
-      description: Lists all the Analysis Services servers for the given subscription.
-      operationId: Servers_List
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-analysisservicesservers-get
-      parameters:
-      - in: query
-        name: No Name
-      responses:
-        200:
-          description: OK
-      tags:
-      - Servers
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
 ---
