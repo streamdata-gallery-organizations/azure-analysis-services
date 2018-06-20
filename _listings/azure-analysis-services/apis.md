@@ -8,10 +8,10 @@ description: Use Azure Resource Manager to create and deploy an Azure Analysis S
   what you use.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transform-complex-data.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Azure Analysis Services
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-analysis-services/master/_listings/azure-analysis-services/apis.md
 specificationVersion: "0.14"
 apis:
